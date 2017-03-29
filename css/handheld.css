@@ -1,0 +1,29 @@
+td.a > img {
+    width: 192px;
+    image-rendering: pixelated;
+}
+td.q {
+    width: 200px;
+}
+
+td.c {
+    width: 200px;
+}
+
+td.r {
+    width: 300px;
+    background-color: #eee;
+}
+
+td.r > div {
+    display: inline-block;
+    height: 20px;
+}
+
+td.r > div.min {
+    background-color: green;
+}
+
+td.r > div.diff {
+    background-color: yellow;
+}
