@@ -218,6 +218,10 @@
 <path fill="#FFFFFF" d="M77.514,1099.572c0-9.072-5.15-17.204-13.107-21.15v-9.291h-4.501v-0.001H47.862v0.001h-4.499v9.291
 	c-7.956,3.946-13.106,12.079-13.106,21.15c0,5.521,1.909,10.602,5.094,14.629h6.221c3.328,2.803,7.62,4.499,12.312,4.499
 	s8.984-1.696,12.312-4.499h6.224C75.606,1110.174,77.514,1105.093,77.514,1099.572z"/>
+<path fill="#FFFFFF" d="M64,1506.5c-19.023,0-34.5-15.477-34.5-34.5s15.477-34.5,34.5-34.5s34.5,15.477,34.5,34.5
+	S83.023,1506.5,64,1506.5z"/>
+<path fill="#FFFFFF" d="M64,1634.5c-19.023,0-34.5-15.477-34.5-34.5s15.477-34.5,34.5-34.5s34.5,15.477,34.5,34.5
+	S83.023,1634.5,64,1634.5z"/>
 <line fill="none" stroke="#666666" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="72.272" y1="1062.821" x2="84.959" y2="1062.821"/>
 <line fill="none" stroke="#666666" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="78.615" y1="1087.155" x2="78.615" y2="1072.912"/>
 <line fill="none" stroke="#666666" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="92.142" y1="1073.629" x2="95.94" y2="1069.83"/>
